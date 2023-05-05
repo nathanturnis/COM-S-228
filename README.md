@@ -10,3 +10,7 @@ can take input from user or read from a file. It finds the median coordinate poi
 
 HW 3 - Project implements a stout list (a linked list where each node consists of an array of objects of type E) and its iterator methods. Some, but not all,
 methods implemented include remove, add, set, next, etc. Program also uses Insertion Sort and Bubble Sort along with a comparator to sort the list. 
+
+HW 4 - Project is able to decode files with binary-tree-based algorithm. Files ending in .arch are encoded with the first line or 2 consisting of a sequence
+of letters, numbers, spaces, and characters. Third line and beyond of the file consists of the binary encription. Program uses binary trees to decode the
+message and output it to the console.
